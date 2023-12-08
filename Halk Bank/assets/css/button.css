@@ -1,0 +1,35 @@
+.inputHeader{
+    border-radius: 10px;
+    background-color: transparent;
+    border:1px solid white;
+    padding: 10px;
+    padding-left: 43px;
+    color: white;
+    width: 530px;
+    height: 40px;
+    
+}
+
+.btnHeader{
+    width: 140px;
+    height: 40px;
+    background-image: linear-gradient(78deg,#ff7c48 -14%,#fdac00 97%);
+    cursor: pointer;
+    border-radius: 8px;
+    color: white;
+}
+.btn{
+    width: 140px;
+    height: 40px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    align-items: center;
+    cursor: pointer;
+    border: none;
+}
+
+.btnPro{
+    background-image: linear-gradient(to right,#3fb8f2 0,#73ddfa 100%);
+
+}
